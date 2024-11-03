@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "proj_ecom"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4a027b0e-ec63-4a41-a568-b2c50a8460f3"
+  }
+}
